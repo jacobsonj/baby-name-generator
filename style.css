@@ -37,7 +37,7 @@ body > h2{
     font-size: 42pt;
 }
 #button-holder{
-    width = 100%
+    width: 100%;
 }
 #get-name{
     height: 15vh;
@@ -58,6 +58,7 @@ body > h2{
     color: rgb(41, 67, 73);
     border-style: inset;
     padding: 10px;
+    background-color: #f9ffe3;
 }
 
 .girlStyle{
@@ -65,4 +66,5 @@ body > h2{
     color: #4c3639;
     border-style: dotted;
     padding: 10px;
+    background-color: #f9ffe3;
 }
